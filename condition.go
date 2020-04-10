@@ -1,3 +1,6 @@
+// Author: Vidhi Panda <vidhimpanda@gmail.com>
+// Description :Decision making in Go
+
 package main
 
 import "fmt"
